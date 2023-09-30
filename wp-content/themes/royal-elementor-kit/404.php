@@ -1,13 +1,5 @@
-<?php get_header(); ?>
-
-	<div class="page-404">
-	
-		<h2><?php esc_html_e( 'Page not found!', 'royal-elementor-kit' ); ?></h2>
-
-		<p>
-			<?php esc_html_e( 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.', 'royal-elementor-kit' ); ?>
-		</p>
-
-	</div>
-
-<?php get_footer(); ?>
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function get_header() in D:\xampp\htdocs\georgi-wordpress-website\wp-content\themes\royal-elementor-kit\404.php:1
+Stack trace:
+#0 {main}
+  thrown in <b>D:\xampp\htdocs\georgi-wordpress-website\wp-content\themes\royal-elementor-kit\404.php</b> on line <b>1</b><br>
